@@ -94,9 +94,9 @@ export default function OGImage() {
             gap: 24,
           }}
         >
-          <span>✦ Sistemas Sob Demanda</span>
-          <span>✦ Landing Pages</span>
-          <span>✦ Suporte Dedicado</span>
+          <span>→ Sistemas Sob Demanda</span>
+          <span>→ Landing Pages</span>
+          <span>→ Suporte Dedicado</span>
         </div>
       </div>
     ),
